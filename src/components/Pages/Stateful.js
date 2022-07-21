@@ -55,7 +55,6 @@ const Stateful = () => {
                     />
                     <CodeMirror
                         value="Second(70)"
-
                         height="100px"
                         extensions={[javascript({ jsx: true })]}
                         onChange={(value, viewUpdate) => {

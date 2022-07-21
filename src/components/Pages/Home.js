@@ -1,12 +1,12 @@
 import React from 'react';
 import { FiChevronRight } from 'react-icons/fi'
-import backgroundIcon from '../../images/reactIcon.svg'
+import backgroundIcon from '../../images/react-bg.png'
 import './Home.css'
 
 const Home = () => {
     return (
         <section style={{
-            background: `url(${backgroundIcon})`, position: 'relative', backgroundColor: '#282c34', backgroundPosition: 'cover', backgroundRepeat: 'no-repeat', backgroundPositionX: '100%', backgroundPositionY: '100px', backgroundSize: '50% auto',
+            background: `url(${backgroundIcon})`, backgroundColor: '#282c34', backgroundRepeat: 'no-repeat', backgroundPositionX: '100%', backgroundPositionY: '100px', backgroundSize: '50% auto',
         }}
             className='bg-aaccent h-screen overlay'>
             <div className=''>
