@@ -21,6 +21,3 @@ Live Link: [link here](link here).
 - NodeJs
 - MongoDB
 - Heroku etc.
-
-
-### Thank You
